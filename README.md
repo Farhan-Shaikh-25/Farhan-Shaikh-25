@@ -159,32 +159,26 @@ Production business website for a UAE-based client. Fully responsive with animat
 <br/>
 
 <!-- Stats -->
-## `04` STATS & ACTIVITY
-
+# `04` STATS & ACTIVITY
+ 
 <div align="center">
-
-<img height="160" src="https://github-stats-alpha.vercel.app/api?username=Farhan-Shaikh-25&cc=111111&tc=c9a84c&ic=c9a84c&bc=2a2a2a" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Shaikh-25&layout=compact&title_color=c9a84c&text_color=f5f0e8&border_color=2a2a2a&bg_color=111111&langs_count=6" />
-
+<img width="100%" src="https://streak-stats.demolab.com/?user=Farhan-Shaikh-25&background=111111&border=2a2a2a&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=f5f0e8&dates=888888&currStreakNum=f5f0e8&sideNums=f5f0e8" />
 <br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=Farhan-Shaikh-25&background=111111&border=2a2a2a&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=f5f0e8&dates=888888&currStreakNum=f5f0e8&sideNums=f5f0e8" />
-
+ 
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=Farhan-Shaikh-25&show_icons=true&title_color=c9a84c&text_color=f5f0e8&icon_color=c9a84c&border_color=2a2a2a&bg_color=111111&count_private=true&hide_border=false" />
 <br/><br/>
-
-[![Lines of Code](https://tokei.rs/b1/github/Farhan-Shaikh-25?category=code&style=for-the-badge&color=c9a84c&label=TOTAL+LINES+OF+CODE)](https://github.com/Farhan-Shaikh-25)
-
-<br/>
-
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan-Shaikh-25&theme=github_dark" />
-
+ 
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Farhan-Shaikh-25&layout=compact&title_color=c9a84c&text_color=f5f0e8&border_color=2a2a2a&bg_color=111111&langs_count=8" />
+<br/><br/>
+ 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan-Shaikh-25&theme=github_dark" />
+<br/><br/>
+ 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farhan-Shaikh-25&theme=github_dark&utcOffset=5.5" />
 </div>
-
 <br/>
-
 ---
-
+ 
 <br/>
 
 <!-- Contact -->
