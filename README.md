@@ -180,18 +180,14 @@ Production business website for a UAE-based client. Fully responsive with animat
 
 <br/><br/>
 
-<img width='48%' src="https://github-stats-extended.vercel.app/api?username=Farhan-Shaikh-25&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
-<img width='48%' src="https://github-stats-extended.vercel.app/api/top-langs?username=Farhan-Shaikh-25&langs_count=4&theme=transparent&hide_border=true" />
+<img width='49%' src="https://github-stats-extended.vercel.app/api?username=Farhan-Shaikh-25&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
+<img width='49%' src="https://github-stats-extended.vercel.app/api/top-langs?username=Farhan-Shaikh-25&langs_count=4&theme=dark&hide_border=true" />
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan-Shaikh-25&theme=github_dark" width="100%" />
 
 <br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhan-Shaikh-25&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farhan-Shaikh-25&theme=github_dark&utcOffset=5.5" width="49%" />
-
 </div>
 
 <br/>
