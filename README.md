@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="100%">
 
 **FRONTEND**
 
@@ -45,7 +45,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=c9a84c)
 
 </td>
-<td align="center" width="200">
+</tr><tr>
+<td align="center" width="100%">
 
 **BACKEND**
 
@@ -56,7 +57,8 @@
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-111111?style=flat-square&logoColor=c9a84c)
 
 </td>
-<td align="center" width="200">
+</tr><tr>
+<td align="center" width="100%">
 
 **DATA & ML**
 
@@ -66,7 +68,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikit-learn&logoColor=c9a84c)
 
 </td>
-<td align="center" width="200">
+</tr><tr>
+<td align="center" width="100%">
 
 **DATABASES**
 
@@ -76,7 +79,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=c9a84c)
 
 </td>
-<td align="center" width="200">
+</tr><tr>
+<td align="center" width="100%">
 
 **TOOLS**
 
