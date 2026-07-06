@@ -113,9 +113,11 @@ End-to-end canteen ordering platform with real-time order tracking and push noti
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=c9a84c)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=c9a84c)
 
-[**→ View Live**](https://breakbite-c33c3.web.app/)
+[**→ View Repo**](https://github.com/Farhan-Shaikh-25/BreakBite) &nbsp;·&nbsp; [**→ View Live**](https://breakbite-c33c3.web.app/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Teacher Audit &nbsp;&nbsp; `FLUTTER · LIVE`
@@ -146,6 +148,8 @@ Secure task management app with JWT access/refresh token auth, bcrypt password h
 [**→ View Live**](https://keeptask.netlify.app)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Zaid Tailoring &nbsp;&nbsp; `CLIENT WORK · LIVE`
@@ -172,13 +176,12 @@ Production business website for a UAE-based client. Fully responsive with animat
 
 <br/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Farhan-Shaikh-25&background=111111&border=2a2a2a&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=f5f0e8&dates=888888&currStreakNum=f5f0e8&sideNums=f5f0e8&hide_border=false" />
+<img width='100%' src="https://streak-stats.demolab.com/?user=Farhan-Shaikh-25&background=111111&border=2a2a2a&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=f5f0e8&dates=888888&currStreakNum=f5f0e8&sideNums=f5f0e8&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=Farhan-Shaikh-25&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent" />
-&nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Farhan-Shaikh-25&langs_count=4&theme=transparent" />
+<img width='48%' src="https://github-stats-extended.vercel.app/api?username=Farhan-Shaikh-25&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+<img width='48%' src="https://github-stats-extended.vercel.app/api/top-langs?username=Farhan-Shaikh-25&langs_count=4&theme=transparent&hide_border=true" />
 
 <br/><br/>
 
