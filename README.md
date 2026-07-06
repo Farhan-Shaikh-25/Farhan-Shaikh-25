@@ -164,7 +164,7 @@ Production business website for a UAE-based client. Fully responsive with animat
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=c9a84c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=c9a84c)
 
-[**→ View Live**](https://zaidtailoring.com)
+[**→ View Live**](https://zaidtailoring.netlify.app)
 
 </td>
 </tr>
